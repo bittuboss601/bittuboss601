@@ -1,7 +1,6 @@
 - 👋 Hello there! I'm Conversational AI Developer along with core experience in Python, Selenium Automation & Scraping. I'm open for collaborations. 
 - 👀 I’m interested in AI, Data Analytics and Algorithms. 
 - My tech stack **Python, Django, MongoDB, Postgresql, SQL, RASA Framework, GCP, Docker, Automation, Data Analytics, Data Mining, Flask, NLP, Conversational AI** 
-- 💞️ I’m looking to collaborate on Conversational AI.
 - 📫 How to reach me :- tiwaripurnendu121@gmail.com
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bittuboss601&layout=compact)](https://github.com/bittuboss601/github-readme-stats)
 - ![Purnendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bittuboss601&show_icons=true&theme=radical)
